@@ -10,6 +10,7 @@
     <modules>
         <module>builder</module>
         <module>singleton</module>
+        <module>abstract_factory</module>
     </modules>
     <packaging>pom</packaging>
 
