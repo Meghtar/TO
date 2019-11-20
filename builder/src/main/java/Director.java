@@ -10,7 +10,7 @@ public class Director {
     public void contructCapricciosa(PizzaBuilder builder) {
         builder.setMeat("Prosciutto di Parma");
         builder.setCheese("Mozarella");
-        builder.setDough("Thin");
+        builder.setDough("Thick");
         builder.setPizzaTopping("Olives");
         builder.setPizzaName("Capricciosa");
     }
